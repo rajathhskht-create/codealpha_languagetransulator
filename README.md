@@ -52,11 +52,19 @@ _swap_languages — swaps FROM/TO dropdowns and moves translated text back to so
 process for language transulator:
 
 User types text
+
       ↓
+      
 Clicks Translate
+
       ↓
+      
 Background thread calls Google API
+
       ↓
+      
 Response parsed (translation + detected language)
+
       ↓
+      
 UI updated → output shown → Copy/Listen enabled
