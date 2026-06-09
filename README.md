@@ -5,7 +5,21 @@ A fully functional desktop translation app built with Python — translates text
 
 
 ✨ Features
-FeatureDescription🌍 80+ LanguagesCovers major world & Indian languages🔍 Auto-detectAutomatically identifies the source language🔊 Text-to-SpeechSpeaks both source and translated text⇄ Swap LanguagesSwap source & target with one click📋 Copy to ClipboardCopy translation instantly⚡ No API KeyUses MyMemory free API — works out of the box🎨 Dark UIGradient dark theme with animated loading🧵 Multi-threadedUI never freezes during translation🖥️ Cross-platformWorks on Windows, Mac & Linux
+Feature                                           Description                                                                       
+🌍 80+ Languages                          Covers major world & Indian languages
+🔍 Auto-detect                            Automatically identifies the source language
+🔊 Text-to-Speech                         Speaks both source and translated text
+⇄ Swap Languages                          Swap source & target with one click
+📋 Copy to Clipboard                      Copy translation instantly
+⚡ No API Key                             Uses MyMemory free API — works out of the box
+🎨 Dark UI                                Gradient dark theme with animated loading
+🧵 Multi-threaded                         UI never freezes during translation
+🖥️ Cross-platform                         Works on Windows, Mac & Linux
+
+🖼️ Screenshots
+
+(Add screenshots here after running the app — drag images into the screenshots/ folder)
+
 
 🛠️ Tech Stack
 
@@ -56,12 +70,8 @@ Primary: gTTS (Google TTS) — supports all 80+ languages including Telugu, Hind
 Fallback (Windows): PowerShell SAPI — works offline for English
 Fallback (Mac): say command — built-in macOS TTS
 
+🙏 Acknowledgements
 
-🚀 Future Improvements
-
- History of past translations
- Favourite/bookmark translations
- Dark/light theme toggle
- Offline translation support
- Translation of uploaded text files (.txt, .pdf)
- Pronunciation guide
+MyMemory Translation API — free translation API
+gTTS — Google Text-to-Speech library
+CodeAlpha — for the internship opportunity
