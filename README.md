@@ -21,13 +21,6 @@ A fully functional **desktop translation app** built with Python — translates 
 | 🖥️ Cross-platform | Works on Windows, Mac & Linux |
 
 ---
-
-## 🖼️ Screenshots
-
-> *(Add screenshots here after running the app — drag images into the `screenshots/` folder)*
-
----
-
 ## 🛠️ Tech Stack
 
 - **Python 3.8+**
@@ -101,36 +94,3 @@ and 60+ more!
 - **Primary**: gTTS (Google TTS) — supports all 80+ languages including Telugu, Hindi, Tamil
 - **Fallback (Windows)**: PowerShell SAPI — works offline for English
 - **Fallback (Mac)**: `say` command — built-in macOS TTS
-
----
-
-## 🚀 Future Improvements
-
-- [ ] History of past translations
-- [ ] Favourite/bookmark translations
-- [ ] Dark/light theme toggle
-- [ ] Offline translation support
-- [ ] Translation of uploaded text files (.txt, .pdf)
-- [ ] Pronunciation guide
-
----
-
-## 📄 License
-
-This project is open source under the [MIT License](LICENSE).
-
----
-
-## 👤 Author
-
-**Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
-
----
-
-## 🙏 Acknowledgements
-
-- [MyMemory Translation API](https://mymemory.translated.net/) — free translation API
-- [gTTS](https://pypi.org/project/gTTS/) — Google Text-to-Speech library
-- **CodeAlpha** — for the internship opportunity
