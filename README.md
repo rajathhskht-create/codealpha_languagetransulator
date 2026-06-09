@@ -16,10 +16,6 @@ Feature                                           Description
 🧵 Multi-threaded                         UI never freezes during translation
 🖥️ Cross-platform                         Works on Windows, Mac & Linux
 
-🖼️ Screenshots
-
-(Add screenshots here after running the app — drag images into the screenshots/ folder)
-
 
 🛠️ Tech Stack
 
